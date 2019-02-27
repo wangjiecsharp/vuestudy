@@ -1,0 +1,23 @@
+{
+  "name": "vuestudy",
+  "version": "1.0.0",
+  "description": "1234567",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjiecsharp/vuestudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjiecsharp/vuestudy/issues"
+  },
+  "homepage": "https://github.com/wangjiecsharp/vuestudy#readme"
+}
